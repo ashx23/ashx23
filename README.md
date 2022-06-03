@@ -8,5 +8,5 @@
 
 ### What am I doing here?
 
-- Wrting code (mostly python)
+- Writing code (mostly python)
 
