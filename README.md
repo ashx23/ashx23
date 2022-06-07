@@ -1,4 +1,8 @@
+
+## CODE NOTEBOOK 💻
 ### Bonjour 👋
+
+
 
 - I am a computer science engineer. 
 - Developer
@@ -9,4 +13,6 @@
 ### What am I doing here?
 
 - Writing code (mostly python)
+
+
 
