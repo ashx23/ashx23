@@ -8,6 +8,7 @@
 - Developer
 - Youtuber 
 - Finance student
+- Web developer
 
 
 ### What am I doing here?
