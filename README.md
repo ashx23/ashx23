@@ -14,6 +14,7 @@
 ### What am I doing here?
 
 - Writing code (mostly python)
+- Web developing (easy level)
 
 
 
